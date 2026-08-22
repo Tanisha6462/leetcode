@@ -4,7 +4,7 @@
     "slug": "shortest-path",
     "name": "Shortest Path"
   },
-  "updatedAt": "2026-08-22T06:30:18.802Z",
+  "updatedAt": "2026-08-22T06:48:16.055Z",
   "problems": [
     {
       "frontendId": "743",
@@ -22,7 +22,7 @@
           "filename": "0743-network-delay-time.cpp",
           "path": "0743-network-delay-time/0743-network-delay-time.cpp",
           "sha": "f95bfa2e4ef9b32fd91c0a0ebbae88cc4989a537",
-          "lastSyncedAt": "2026-08-22T06:30:18.802Z"
+          "lastSyncedAt": "2026-08-22T06:48:16.055Z"
         }
       ]
     }
