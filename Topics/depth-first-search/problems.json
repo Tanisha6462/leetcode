@@ -4,8 +4,28 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-22T06:29:58.186Z",
+  "updatedAt": "2026-08-22T06:30:18.802Z",
   "problems": [
+    {
+      "frontendId": "743",
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "problemName": "0743-network-delay-time",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+      "folderPath": "0743-network-delay-time/",
+      "readmePath": "0743-network-delay-time/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0743-network-delay-time.cpp",
+          "path": "0743-network-delay-time/0743-network-delay-time.cpp",
+          "sha": "f95bfa2e4ef9b32fd91c0a0ebbae88cc4989a537",
+          "lastSyncedAt": "2026-08-22T06:30:18.802Z"
+        }
+      ]
+    },
     {
       "frontendId": "1631",
       "title": "Path With Minimum Effort",
