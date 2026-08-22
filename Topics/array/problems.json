@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T06:27:51.480Z",
+  "updatedAt": "2026-08-22T06:27:57.402Z",
   "problems": [
     {
       "frontendId": "213",
@@ -63,6 +63,26 @@
           "path": "0646-maximum-length-of-pair-chain/0646-maximum-length-of-pair-chain.cpp",
           "sha": "ecc84500993a866db54a8eced1e1b04b0257eac2",
           "lastSyncedAt": "2026-08-22T06:27:42.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1911",
+      "title": "Maximum Alternating Subsequence Sum",
+      "slug": "maximum-alternating-subsequence-sum",
+      "problemName": "1911-maximum-alternating-subsequence-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/",
+      "folderPath": "1911-maximum-alternating-subsequence-sum/",
+      "readmePath": "1911-maximum-alternating-subsequence-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1911-maximum-alternating-subsequence-sum.cpp",
+          "path": "1911-maximum-alternating-subsequence-sum/1911-maximum-alternating-subsequence-sum.cpp",
+          "sha": "5e1ad1885e23695c6e1a4dfa9a65c44ccdb924a6",
+          "lastSyncedAt": "2026-08-22T06:27:57.402Z"
         }
       ]
     }
