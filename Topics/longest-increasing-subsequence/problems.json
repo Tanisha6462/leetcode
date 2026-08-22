@@ -4,7 +4,7 @@
     "slug": "longest-increasing-subsequence",
     "name": "Longest Increasing Subsequence"
   },
-  "updatedAt": "2026-08-22T06:27:42.048Z",
+  "updatedAt": "2026-08-22T06:27:51.480Z",
   "problems": [
     {
       "frontendId": "300",
@@ -22,7 +22,7 @@
           "filename": "0300-longest-increasing-subsequence.cpp",
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.cpp",
           "sha": "7118700f87b4b03ed18efc917d0bf7b50f57b868",
-          "lastSyncedAt": "2026-08-22T06:27:33.171Z"
+          "lastSyncedAt": "2026-08-22T06:27:51.480Z"
         }
       ]
     },
