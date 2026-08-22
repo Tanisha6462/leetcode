@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming"
+  },
+  "updatedAt": "2026-08-22T06:27:15.827Z",
+  "problems": [
+    {
+      "frontendId": "646",
+      "title": "Maximum Length of Pair Chain",
+      "slug": "maximum-length-of-pair-chain",
+      "problemName": "0646-maximum-length-of-pair-chain",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+      "folderPath": "0646-maximum-length-of-pair-chain/",
+      "readmePath": "0646-maximum-length-of-pair-chain/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0646-maximum-length-of-pair-chain.cpp",
+          "path": "0646-maximum-length-of-pair-chain/0646-maximum-length-of-pair-chain.cpp",
+          "sha": "ecc84500993a866db54a8eced1e1b04b0257eac2",
+          "lastSyncedAt": "2026-08-22T06:27:15.827Z"
+        }
+      ]
+    }
+  ]
+}
