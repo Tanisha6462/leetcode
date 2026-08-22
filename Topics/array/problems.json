@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T06:47:45.450Z",
+  "updatedAt": "2026-08-22T06:47:57.924Z",
   "problems": [
     {
       "frontendId": "198",
@@ -262,7 +262,7 @@
           "filename": "3731-find-missing-elements.cpp",
           "path": "3731-find-missing-elements/3731-find-missing-elements.cpp",
           "sha": "2a929685202e9a065be958d66b6fca80fd6bd947",
-          "lastSyncedAt": "2026-08-22T06:29:49.572Z"
+          "lastSyncedAt": "2026-08-22T06:47:57.924Z"
         }
       ]
     }
