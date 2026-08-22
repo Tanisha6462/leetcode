@@ -4,7 +4,7 @@
     "slug": "dijkstra",
     "name": "Dijkstra's Algorithm"
   },
-  "updatedAt": "2026-08-22T06:30:18.802Z",
+  "updatedAt": "2026-08-22T06:48:03.861Z",
   "problems": [
     {
       "frontendId": "743",
@@ -42,7 +42,7 @@
           "filename": "1631-path-with-minimum-effort.cpp",
           "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
           "sha": "6ba085dd62747b4a8a5e998aec139f1d98b6c888",
-          "lastSyncedAt": "2026-08-22T06:29:58.186Z"
+          "lastSyncedAt": "2026-08-22T06:48:03.861Z"
         }
       ]
     }
