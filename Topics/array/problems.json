@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T06:27:57.402Z",
+  "updatedAt": "2026-08-22T06:28:01.537Z",
   "problems": [
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "0198-house-robber/",
+      "readmePath": "0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0198-house-robber.cpp",
+          "path": "0198-house-robber/0198-house-robber.cpp",
+          "sha": "2bc42bdd6aec26e31b1a6ee6053a29219b1ba14f",
+          "lastSyncedAt": "2026-08-22T06:28:01.537Z"
+        }
+      ]
+    },
     {
       "frontendId": "213",
       "title": "House Robber II",
