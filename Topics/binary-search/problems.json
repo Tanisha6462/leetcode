@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-22T06:27:51.480Z",
+  "updatedAt": "2026-08-22T06:29:58.186Z",
   "problems": [
     {
       "frontendId": "300",
@@ -23,6 +23,26 @@
           "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.cpp",
           "sha": "7118700f87b4b03ed18efc917d0bf7b50f57b868",
           "lastSyncedAt": "2026-08-22T06:27:51.480Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "1631-path-with-minimum-effort/",
+      "readmePath": "1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1631-path-with-minimum-effort.cpp",
+          "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
+          "sha": "6ba085dd62747b4a8a5e998aec139f1d98b6c888",
+          "lastSyncedAt": "2026-08-22T06:29:58.186Z"
         }
       ]
     }
