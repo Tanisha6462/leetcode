@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-08-22T06:28:14.246Z",
+  "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0070-climbing-stairs.cpp",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
+          "sha": "f2c7c9136fabac5f52c5248019e79db5f80a8d75",
+          "lastSyncedAt": "2026-08-22T06:28:14.246Z"
+        }
+      ]
+    }
+  ]
+}
