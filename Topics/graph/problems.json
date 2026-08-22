@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-08-22T06:30:40.812Z",
+  "updatedAt": "2026-08-22T06:47:40.047Z",
   "problems": [
     {
       "frontendId": "207",
@@ -102,7 +102,7 @@
           "filename": "3310-remove-methods-from-project.cpp",
           "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.cpp",
           "sha": "2c5d2b4ed227d5ccc465ee53cb71148010aaf5c1",
-          "lastSyncedAt": "2026-08-22T06:29:16.613Z"
+          "lastSyncedAt": "2026-08-22T06:47:40.047Z"
         }
       ]
     }
