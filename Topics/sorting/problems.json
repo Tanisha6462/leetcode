@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-22T06:29:49.572Z",
+  "updatedAt": "2026-08-22T06:46:24.833Z",
   "problems": [
     {
       "frontendId": "646",
@@ -23,6 +23,26 @@
           "path": "0646-maximum-length-of-pair-chain/0646-maximum-length-of-pair-chain.cpp",
           "sha": "ecc84500993a866db54a8eced1e1b04b0257eac2",
           "lastSyncedAt": "2026-08-22T06:27:42.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1048",
+      "title": "Longest String Chain",
+      "slug": "longest-string-chain",
+      "problemName": "1048-longest-string-chain",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-string-chain/",
+      "folderPath": "1048-longest-string-chain/",
+      "readmePath": "1048-longest-string-chain/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1048-longest-string-chain.cpp",
+          "path": "1048-longest-string-chain/1048-longest-string-chain.cpp",
+          "sha": "b83e0a3ac7e94259a3cb3eab10c31ec745d2d0d9",
+          "lastSyncedAt": "2026-08-22T06:46:24.833Z"
         }
       ]
     },
