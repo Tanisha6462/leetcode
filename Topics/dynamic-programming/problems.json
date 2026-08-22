@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-22T06:46:24.833Z",
+  "updatedAt": "2026-08-22T06:46:37.877Z",
   "problems": [
     {
       "frontendId": "70",
@@ -62,7 +62,7 @@
           "filename": "0213-house-robber-ii.cpp",
           "path": "0213-house-robber-ii/0213-house-robber-ii.cpp",
           "sha": "9c7bf7d20b081803bee8db4b92e8bd6584450716",
-          "lastSyncedAt": "2026-08-22T06:27:52.549Z"
+          "lastSyncedAt": "2026-08-22T06:46:37.877Z"
         }
       ]
     },
