@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-22T14:26:58.589Z",
+  "updatedAt": "2026-08-22T14:27:30.866Z",
   "problems": [
     {
       "frontendId": "1420",
@@ -22,7 +22,7 @@
           "filename": "1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.cpp",
           "path": "1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.cpp",
           "sha": "61d0b52f7fc1b51a8edc7b5bfd201739dd43b1eb",
-          "lastSyncedAt": "2026-08-22T14:26:58.589Z"
+          "lastSyncedAt": "2026-08-22T14:27:30.866Z"
         }
       ]
     }
