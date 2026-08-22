@@ -4,8 +4,28 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-08-22T06:30:31.386Z",
+  "updatedAt": "2026-08-22T06:30:40.812Z",
   "problems": [
+    {
+      "frontendId": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "problemName": "0207-course-schedule",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+      "folderPath": "0207-course-schedule/",
+      "readmePath": "0207-course-schedule/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0207-course-schedule.cpp",
+          "path": "0207-course-schedule/0207-course-schedule.cpp",
+          "sha": "8b86a7fb511e3bb6990b9c6a36b4db051cf1459b",
+          "lastSyncedAt": "2026-08-22T06:30:40.812Z"
+        }
+      ]
+    },
     {
       "frontendId": "210",
       "title": "Course Schedule II",
