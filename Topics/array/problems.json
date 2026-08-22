@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T06:29:49.572Z",
+  "updatedAt": "2026-08-22T06:29:58.186Z",
   "problems": [
     {
       "frontendId": "198",
@@ -103,6 +103,26 @@
           "path": "1584-min-cost-to-connect-all-points/1584-min-cost-to-connect-all-points.cpp",
           "sha": "18818c8454fba44f4d9b7a6ea1ceff5050576b29",
           "lastSyncedAt": "2026-08-22T06:29:28.204Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1631",
+      "title": "Path With Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "problemName": "1631-path-with-minimum-effort",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "folderPath": "1631-path-with-minimum-effort/",
+      "readmePath": "1631-path-with-minimum-effort/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1631-path-with-minimum-effort.cpp",
+          "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
+          "sha": "6ba085dd62747b4a8a5e998aec139f1d98b6c888",
+          "lastSyncedAt": "2026-08-22T06:29:58.186Z"
         }
       ]
     },
