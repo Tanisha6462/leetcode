@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 4 | 12 | 2 |
+| 19 | 4 | 12 | 3 |
 
 ## Activity
 
@@ -25,19 +25,19 @@ Contains topicwise list of solved problems.
 | 2026-08-13 | 1 |
 | 2026-08-20 | 3 |
 | 2026-08-21 | 3 |
-| 2026-08-22 | 2 |
+| 2026-08-22 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 72% |
-| Dynamic Programming | 8 | 44% |
-| Breadth-First Search | 4 | 22% |
-| Depth-First Search | 4 | 22% |
-| Graph Theory | 4 | 22% |
-| Hash Table | 4 | 22% |
-| Sorting | 4 | 22% |
+| Array | 13 | 68% |
+| Dynamic Programming | 9 | 47% |
+| Breadth-First Search | 4 | 21% |
+| Depth-First Search | 4 | 21% |
+| Graph Theory | 4 | 21% |
+| Hash Table | 4 | 21% |
+| Sorting | 4 | 21% |
 | Binary Search | 2 | 11% |
 | Dijkstra's Algorithm | 2 | 11% |
 | Heap (Priority Queue) | 2 | 11% |
@@ -53,7 +53,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph Theory](Topics/graph/) | 5 |
 | [Greedy](Topics/greedy/) | 1 |
@@ -68,6 +68,7 @@ Contains topicwise list of solved problems.
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
