@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-22T06:30:18.802Z",
+  "updatedAt": "2026-08-22T06:30:31.386Z",
   "problems": [
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0210-course-schedule-ii.cpp",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.cpp",
+          "sha": "aea9d8528d2d6294258fe0bcad66944af25e19b7",
+          "lastSyncedAt": "2026-08-22T06:30:31.386Z"
+        }
+      ]
+    },
     {
       "frontendId": "743",
       "title": "Network Delay Time",
