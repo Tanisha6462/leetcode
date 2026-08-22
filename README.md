@@ -80,3 +80,31 @@ Contains topicwise list of solved problems.
 | [Union-Find](Topics/union-find/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Tanisha6462/leetcode/tree/master/1048-longest-string-chain) |
+## Hash Table
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Tanisha6462/leetcode/tree/master/1048-longest-string-chain) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Tanisha6462/leetcode/tree/master/1048-longest-string-chain) |
+## String
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Tanisha6462/leetcode/tree/master/1048-longest-string-chain) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Tanisha6462/leetcode/tree/master/1048-longest-string-chain) |
+## Sorting
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Tanisha6462/leetcode/tree/master/1048-longest-string-chain) |
+<!---LeetCode Topics End-->
