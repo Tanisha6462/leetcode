@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 4 | 12 | 3 |
+| 20 | 5 | 12 | 3 |
 
 ## Activity
 
@@ -25,22 +25,22 @@ Contains topicwise list of solved problems.
 | 2026-08-13 | 1 |
 | 2026-08-20 | 3 |
 | 2026-08-21 | 3 |
-| 2026-08-22 | 3 |
+| 2026-08-22 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 68% |
-| Dynamic Programming | 9 | 47% |
-| Breadth-First Search | 4 | 21% |
-| Depth-First Search | 4 | 21% |
-| Graph Theory | 4 | 21% |
-| Hash Table | 4 | 21% |
-| Sorting | 4 | 21% |
-| Binary Search | 2 | 11% |
-| Dijkstra's Algorithm | 2 | 11% |
-| Heap (Priority Queue) | 2 | 11% |
+| Array | 13 | 65% |
+| Dynamic Programming | 9 | 45% |
+| Breadth-First Search | 4 | 20% |
+| Depth-First Search | 4 | 20% |
+| Graph Theory | 4 | 20% |
+| Hash Table | 4 | 20% |
+| Sorting | 4 | 20% |
+| Math | 3 | 15% |
+| Binary Search | 2 | 10% |
+| Dijkstra's Algorithm | 2 | 10% |
 
 ## Topics
 
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
