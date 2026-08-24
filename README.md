@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 5 | 12 | 3 |
+| 21 | 5 | 12 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 4 days | 11 |
+| 1 days | 4 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,19 +26,20 @@ Contains topicwise list of solved problems.
 | 2026-08-20 | 3 |
 | 2026-08-21 | 3 |
 | 2026-08-22 | 4 |
+| 2026-08-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 65% |
-| Dynamic Programming | 9 | 45% |
-| Breadth-First Search | 4 | 20% |
-| Depth-First Search | 4 | 20% |
-| Graph Theory | 4 | 20% |
-| Hash Table | 4 | 20% |
-| Sorting | 4 | 20% |
-| Math | 3 | 15% |
+| Array | 14 | 67% |
+| Dynamic Programming | 10 | 48% |
+| Breadth-First Search | 4 | 19% |
+| Depth-First Search | 4 | 19% |
+| Graph Theory | 4 | 19% |
+| Hash Table | 4 | 19% |
+| Math | 4 | 19% |
+| Sorting | 4 | 19% |
 | Binary Search | 2 | 10% |
 | Dijkstra's Algorithm | 2 | 10% |
 
@@ -46,29 +47,29 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
-| [Game Theory](Topics/game-theory/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
-| [Minimax](Topics/minimax-algorithm/) | 1 |
+| [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
@@ -80,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 | [Union-Find](Topics/union-find/) | 2 |
-| [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
