@@ -4,7 +4,7 @@
     "slug": "zero-sum-game",
     "name": "Zero-Sum Game"
   },
-  "updatedAt": "2026-08-22T06:47:28.671Z",
+  "updatedAt": "2026-08-24T17:20:47.890Z",
   "problems": [
     {
       "frontendId": "1510",
@@ -23,6 +23,26 @@
           "path": "1510-stone-game-iv/1510-stone-game-iv.cpp",
           "sha": "c42a36768bd21dbc7c040bd53aa8b68c44c2e56c",
           "lastSyncedAt": "2026-08-22T06:47:28.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "1872-stone-game-viii/",
+      "readmePath": "1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1872-stone-game-viii.cpp",
+          "path": "1872-stone-game-viii/1872-stone-game-viii.cpp",
+          "sha": "26460b77e0c1c9f71d5cfb35e669e6785e2a6aee",
+          "lastSyncedAt": "2026-08-24T17:20:47.890Z"
         }
       ]
     }
