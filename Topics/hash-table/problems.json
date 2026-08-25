@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-22T06:47:57.924Z",
+  "updatedAt": "2026-08-25T14:56:07.456Z",
   "problems": [
     {
       "frontendId": "1048",
@@ -63,6 +63,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.cpp",
           "sha": "7bfee751991b75c988fc4c21ed37d6f66ce5c60b",
           "lastSyncedAt": "2026-08-22T06:47:24.361Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "3718-smallest-missing-multiple-of-k/",
+      "readmePath": "3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3718-smallest-missing-multiple-of-k.cpp",
+          "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
+          "sha": "f115a005332e45bfbe04b80c56d6ed8bbaa3d072",
+          "lastSyncedAt": "2026-08-25T14:56:07.456Z"
         }
       ]
     },
