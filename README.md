@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 5 | 12 | 4 |
+| 22 | 6 | 12 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 12 |
+| 2 days | 4 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -27,27 +27,28 @@ Contains topicwise list of solved problems.
 | 2026-08-21 | 3 |
 | 2026-08-22 | 4 |
 | 2026-08-24 | 1 |
+| 2026-08-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 67% |
-| Dynamic Programming | 10 | 48% |
-| Breadth-First Search | 4 | 19% |
-| Depth-First Search | 4 | 19% |
-| Graph Theory | 4 | 19% |
-| Hash Table | 4 | 19% |
-| Math | 4 | 19% |
-| Sorting | 4 | 19% |
-| Binary Search | 2 | 10% |
-| Dijkstra's Algorithm | 2 | 10% |
+| Array | 15 | 68% |
+| Dynamic Programming | 10 | 45% |
+| Hash Table | 5 | 23% |
+| Breadth-First Search | 4 | 18% |
+| Depth-First Search | 4 | 18% |
+| Graph Theory | 4 | 18% |
+| Math | 4 | 18% |
+| Sorting | 4 | 18% |
+| Binary Search | 2 | 9% |
+| Dijkstra's Algorithm | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
@@ -58,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
