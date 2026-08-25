@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-24T17:20:47.890Z",
+  "updatedAt": "2026-08-25T14:56:07.456Z",
   "problems": [
     {
       "frontendId": "198",
@@ -263,6 +263,26 @@
           "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
           "sha": "a3d8157cdf6abce2c9b0cc20b8b411401a0aaeda",
           "lastSyncedAt": "2026-08-22T06:47:04.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "3718-smallest-missing-multiple-of-k/",
+      "readmePath": "3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3718-smallest-missing-multiple-of-k.cpp",
+          "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
+          "sha": "f115a005332e45bfbe04b80c56d6ed8bbaa3d072",
+          "lastSyncedAt": "2026-08-25T14:56:07.456Z"
         }
       ]
     },
