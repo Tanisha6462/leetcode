@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-22T06:47:19.504Z",
+  "updatedAt": "2026-08-26T14:55:10.200Z",
   "problems": [
+    {
+      "frontendId": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "folderPath": "2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "sha": "dd4b9435869d5eb331b7da1637c67e1649ef002f",
+          "lastSyncedAt": "2026-08-26T14:55:10.200Z"
+        }
+      ]
+    },
     {
       "frontendId": "2958",
       "title": "Length of Longest Subarray With at Most K Frequency",
