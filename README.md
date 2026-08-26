@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 6 | 13 | 4 |
+| 24 | 6 | 14 | 4 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-22 | 4 |
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
-| 2026-08-26 | 1 |
+| 2026-08-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 65% |
-| Dynamic Programming | 11 | 48% |
-| Hash Table | 5 | 22% |
+| Array | 15 | 63% |
+| Dynamic Programming | 11 | 46% |
+| Hash Table | 5 | 21% |
 | Breadth-First Search | 4 | 17% |
 | Depth-First Search | 4 | 17% |
 | Graph Theory | 4 | 17% |
 | Math | 4 | 17% |
 | Sorting | 4 | 17% |
-| String | 3 | 13% |
-| Binary Search | 2 | 9% |
+| String | 4 | 17% |
+| Binary Search | 2 | 8% |
 
 ## Topics
 
@@ -77,10 +77,10 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 | [Union-Find](Topics/union-find/) | 2 |
