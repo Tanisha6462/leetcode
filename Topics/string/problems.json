@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-26T05:06:54.229Z",
+  "updatedAt": "2026-08-26T14:55:10.200Z",
   "problems": [
     {
       "frontendId": "1048",
@@ -63,6 +63,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.cpp",
           "sha": "6bdbe5fe05d0a280e8e5b4413eb07c5b9fd3fbc3",
           "lastSyncedAt": "2026-08-22T06:47:13.211Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "folderPath": "2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.cpp",
+          "sha": "dd4b9435869d5eb331b7da1637c67e1649ef002f",
+          "lastSyncedAt": "2026-08-26T14:55:10.200Z"
         }
       ]
     }
