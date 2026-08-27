@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-22T06:46:41.517Z",
+  "updatedAt": "2026-08-27T13:51:06.364Z",
   "problems": [
     {
       "frontendId": "646",
@@ -23,6 +23,26 @@
           "path": "0646-maximum-length-of-pair-chain/0646-maximum-length-of-pair-chain.cpp",
           "sha": "ecc84500993a866db54a8eced1e1b04b0257eac2",
           "lastSyncedAt": "2026-08-22T06:46:41.517Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.cpp",
+          "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
+          "sha": "6ca50ff781b131b81463d2311541df914786ee6b",
+          "lastSyncedAt": "2026-08-27T13:51:06.364Z"
         }
       ]
     }
