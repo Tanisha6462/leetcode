@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 6 | 14 | 4 |
+| 25 | 6 | 15 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 4 days | 14 |
+| 4 days | 4 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-29 | 1 |
 | 2026-08-02 | 1 |
 | 2026-08-04 | 2 |
 | 2026-08-05 | 2 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-08-26 | 2 |
+| 2026-08-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 63% |
-| Dynamic Programming | 11 | 46% |
-| Hash Table | 5 | 21% |
-| Breadth-First Search | 4 | 17% |
-| Depth-First Search | 4 | 17% |
-| Graph Theory | 4 | 17% |
-| Math | 4 | 17% |
-| Sorting | 4 | 17% |
-| String | 4 | 17% |
+| Array | 15 | 60% |
+| Dynamic Programming | 11 | 44% |
+| Hash Table | 6 | 24% |
+| String | 5 | 20% |
+| Breadth-First Search | 4 | 16% |
+| Depth-First Search | 4 | 16% |
+| Graph Theory | 4 | 16% |
+| Math | 4 | 16% |
+| Sorting | 4 | 16% |
 | Binary Search | 2 | 8% |
 
 ## Topics
@@ -53,14 +53,16 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
+| [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 11 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
-| [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Greedy](Topics/greedy/) | 2 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
@@ -80,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 | [Union-Find](Topics/union-find/) | 2 |
