@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-27T13:51:06.364Z",
+  "updatedAt": "2026-08-28T05:42:59.081Z",
   "problems": [
+    {
+      "frontendId": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "problemName": "0072-edit-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+      "folderPath": "0072-edit-distance/",
+      "readmePath": "0072-edit-distance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0072-edit-distance.cpp",
+          "path": "0072-edit-distance/0072-edit-distance.cpp",
+          "sha": "59853f6c4414be6e0528b805b0e487b10b8c9b61",
+          "lastSyncedAt": "2026-08-28T05:42:59.081Z"
+        }
+      ]
+    },
     {
       "frontendId": "1048",
       "title": "Longest String Chain",
