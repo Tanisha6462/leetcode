@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 6 | 15 | 4 |
+| 26 | 6 | 16 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 15 |
+| 5 days | 5 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-02 | 1 |
 | 2026-08-04 | 2 |
 | 2026-08-05 | 2 |
 | 2026-08-10 | 1 |
@@ -29,20 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-08-25 | 1 |
 | 2026-08-26 | 2 |
 | 2026-08-27 | 1 |
+| 2026-08-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 60% |
-| Dynamic Programming | 11 | 44% |
-| Hash Table | 6 | 24% |
-| String | 5 | 20% |
-| Breadth-First Search | 4 | 16% |
-| Depth-First Search | 4 | 16% |
-| Graph Theory | 4 | 16% |
-| Math | 4 | 16% |
-| Sorting | 4 | 16% |
+| Array | 15 | 58% |
+| Dynamic Programming | 12 | 46% |
+| Hash Table | 6 | 23% |
+| String | 6 | 23% |
+| Breadth-First Search | 4 | 15% |
+| Depth-First Search | 4 | 15% |
+| Graph Theory | 4 | 15% |
+| Math | 4 | 15% |
+| Sorting | 4 | 15% |
 | Binary Search | 2 | 8% |
 
 ## Topics
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
@@ -82,7 +82,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 | [Union-Find](Topics/union-find/) | 2 |
