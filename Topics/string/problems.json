@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-28T08:47:19.698Z",
+  "updatedAt": "2026-08-29T05:24:56.668Z",
   "problems": [
     {
       "frontendId": "72",
@@ -22,7 +22,7 @@
           "filename": "0072-edit-distance.cpp",
           "path": "0072-edit-distance/0072-edit-distance.cpp",
           "sha": "59853f6c4414be6e0528b805b0e487b10b8c9b61",
-          "lastSyncedAt": "2026-08-28T08:47:19.698Z"
+          "lastSyncedAt": "2026-08-29T05:24:56.668Z"
         }
       ]
     },
