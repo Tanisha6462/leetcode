@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-29T05:24:56.668Z",
+  "updatedAt": "2026-08-30T13:28:47.698Z",
   "problems": [
     {
       "frontendId": "72",
@@ -23,6 +23,26 @@
           "path": "0072-edit-distance/0072-edit-distance.cpp",
           "sha": "59853f6c4414be6e0528b805b0e487b10b8c9b61",
           "lastSyncedAt": "2026-08-29T05:24:56.668Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "647",
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "problemName": "0647-palindromic-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+      "folderPath": "0647-palindromic-substrings/",
+      "readmePath": "0647-palindromic-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0647-palindromic-substrings.cpp",
+          "path": "0647-palindromic-substrings/0647-palindromic-substrings.cpp",
+          "sha": "27bbc9f0fdbc097b516a48d5372a8ac8112ebf8e",
+          "lastSyncedAt": "2026-08-30T13:28:47.698Z"
         }
       ]
     },
