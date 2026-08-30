@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 6 | 16 | 4 |
+| 27 | 6 | 17 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 16 |
+| 1 days | 5 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-04 | 2 |
 | 2026-08-05 | 2 |
 | 2026-08-10 | 1 |
 | 2026-08-11 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-26 | 2 |
 | 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
+| 2026-08-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 58% |
-| Dynamic Programming | 12 | 46% |
-| Hash Table | 6 | 23% |
-| String | 6 | 23% |
+| Array | 15 | 56% |
+| Dynamic Programming | 13 | 48% |
+| String | 7 | 26% |
+| Hash Table | 6 | 22% |
 | Breadth-First Search | 4 | 15% |
 | Depth-First Search | 4 | 15% |
 | Graph Theory | 4 | 15% |
 | Math | 4 | 15% |
 | Sorting | 4 | 15% |
-| Binary Search | 2 | 8% |
+| Binary Search | 2 | 7% |
 
 ## Topics
 
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
@@ -82,9 +82,9 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 | [Union-Find](Topics/union-find/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
