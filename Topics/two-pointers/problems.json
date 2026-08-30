@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-30T13:32:49.356Z",
+  "updatedAt": "2026-08-30T13:33:28.389Z",
   "problems": [
     {
       "frontendId": "647",
@@ -22,7 +22,7 @@
           "filename": "0647-palindromic-substrings.cpp",
           "path": "0647-palindromic-substrings/0647-palindromic-substrings.cpp",
           "sha": "27bbc9f0fdbc097b516a48d5372a8ac8112ebf8e",
-          "lastSyncedAt": "2026-08-30T13:32:49.356Z"
+          "lastSyncedAt": "2026-08-30T13:33:28.389Z"
         }
       ]
     },
