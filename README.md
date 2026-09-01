@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 6 | 18 | 4 |
+| 29 | 6 | 19 | 4 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
 | 2026-08-30 | 1 |
-| 2026-09-01 | 1 |
+| 2026-09-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 54% |
-| Dynamic Programming | 14 | 50% |
-| String | 8 | 29% |
+| Array | 15 | 52% |
+| Dynamic Programming | 15 | 52% |
+| String | 9 | 31% |
 | Hash Table | 6 | 21% |
 | Breadth-First Search | 4 | 14% |
 | Depth-First Search | 4 | 14% |
 | Graph Theory | 4 | 14% |
 | Math | 4 | 14% |
 | Sorting | 4 | 14% |
-| Two Pointers | 3 | 11% |
+| Two Pointers | 3 | 10% |
 
 ## Topics
 
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 14 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 15 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
@@ -83,7 +83,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 2 |
