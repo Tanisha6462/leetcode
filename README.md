@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 6 | 17 | 4 |
+| 28 | 6 | 18 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 17 |
+| 1 days | 5 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-05 | 2 |
 | 2026-08-10 | 1 |
 | 2026-08-11 | 1 |
 | 2026-08-12 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
 | 2026-08-30 | 1 |
+| 2026-09-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 56% |
-| Dynamic Programming | 13 | 48% |
-| String | 7 | 26% |
-| Hash Table | 6 | 22% |
-| Breadth-First Search | 4 | 15% |
-| Depth-First Search | 4 | 15% |
-| Graph Theory | 4 | 15% |
-| Math | 4 | 15% |
-| Sorting | 4 | 15% |
-| Binary Search | 2 | 7% |
+| Array | 15 | 54% |
+| Dynamic Programming | 14 | 50% |
+| String | 8 | 29% |
+| Hash Table | 6 | 21% |
+| Breadth-First Search | 4 | 14% |
+| Depth-First Search | 4 | 14% |
+| Graph Theory | 4 | 14% |
+| Math | 4 | 14% |
+| Sorting | 4 | 14% |
+| Two Pointers | 3 | 11% |
 
 ## Topics
 
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 14 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
@@ -67,6 +67,7 @@ Contains topicwise list of solved problems.
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
+| [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -82,9 +83,9 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
