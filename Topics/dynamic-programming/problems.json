@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-01T15:24:30.378Z",
+  "updatedAt": "2026-09-04T08:30:41.063Z",
   "problems": [
     {
       "frontendId": "5",
@@ -63,6 +63,26 @@
           "path": "0072-edit-distance/0072-edit-distance.cpp",
           "sha": "59853f6c4414be6e0528b805b0e487b10b8c9b61",
           "lastSyncedAt": "2026-08-29T05:24:56.668Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "131",
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "problemName": "0131-palindrome-partitioning",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning/",
+      "folderPath": "0131-palindrome-partitioning/",
+      "readmePath": "0131-palindrome-partitioning/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0131-palindrome-partitioning.cpp",
+          "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
+          "sha": "fcd3848ca4b2857f8a63d8f23ac57ac6c222f39f",
+          "lastSyncedAt": "2026-09-04T08:30:41.063Z"
         }
       ]
     },
