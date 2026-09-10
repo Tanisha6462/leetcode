@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 6 | 20 | 5 |
+| 32 | 6 | 21 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 19 |
+| 1 days | 5 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-11 | 1 |
 | 2026-08-12 | 1 |
 | 2026-08-13 | 1 |
 | 2026-08-20 | 3 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-08-30 | 1 |
 | 2026-09-01 | 3 |
 | 2026-09-04 | 1 |
+| 2026-09-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 17 | 55% |
-| Array | 15 | 48% |
-| String | 11 | 35% |
+| Dynamic Programming | 17 | 53% |
+| Array | 15 | 47% |
+| String | 11 | 34% |
 | Hash Table | 6 | 19% |
+| Depth-First Search | 5 | 16% |
 | Breadth-First Search | 4 | 13% |
-| Depth-First Search | 4 | 13% |
 | Graph Theory | 4 | 13% |
 | Math | 4 | 13% |
 | Sorting | 4 | 13% |
-| Two Pointers | 3 | 10% |
+| Two Pointers | 3 | 9% |
 
 ## Topics
 
@@ -52,10 +52,11 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
 | [Counting](Topics/counting/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 5 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 17 |
@@ -86,6 +87,7 @@ Contains topicwise list of solved problems.
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [String](Topics/string/) | 11 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
+| [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
