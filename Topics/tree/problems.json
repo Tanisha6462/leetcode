@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "tree",
+    "name": "Tree"
+  },
+  "updatedAt": "2026-09-10T14:47:47.035Z",
+  "problems": [
+    {
+      "frontendId": "2265",
+      "title": "Count Nodes Equal to Average of Subtree",
+      "slug": "count-nodes-equal-to-average-of-subtree",
+      "problemName": "2265-count-nodes-equal-to-average-of-subtree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/",
+      "folderPath": "2265-count-nodes-equal-to-average-of-subtree/",
+      "readmePath": "2265-count-nodes-equal-to-average-of-subtree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2265-count-nodes-equal-to-average-of-subtree.cpp",
+          "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.cpp",
+          "sha": "7b5e87272ea512acf552a1130c3c2e6b6c9007d9",
+          "lastSyncedAt": "2026-09-10T14:47:47.035Z"
+        }
+      ]
+    }
+  ]
+}
