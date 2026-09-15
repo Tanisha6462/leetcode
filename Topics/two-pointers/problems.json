@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-01T05:20:15.809Z",
+  "updatedAt": "2026-09-15T13:40:41.271Z",
   "problems": [
     {
       "frontendId": "5",
@@ -63,6 +63,26 @@
           "path": "1048-longest-string-chain/1048-longest-string-chain.cpp",
           "sha": "b83e0a3ac7e94259a3cb3eab10c31ec745d2d0d9",
           "lastSyncedAt": "2026-08-22T06:46:24.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2472",
+      "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+      "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "problemName": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/",
+      "folderPath": "2472-maximum-number-of-non-overlapping-palindrome-substrings/",
+      "readmePath": "2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
+          "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.cpp",
+          "sha": "c103376a1fa4869afc4894c40a3271c4d8c9cfa2",
+          "lastSyncedAt": "2026-09-15T13:40:41.271Z"
         }
       ]
     }
