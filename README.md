@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 6 | 21 | 5 |
+| 33 | 6 | 21 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 20 |
+| 1 days | 5 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-12 | 1 |
 | 2026-08-13 | 1 |
 | 2026-08-20 | 3 |
 | 2026-08-21 | 3 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-01 | 3 |
 | 2026-09-04 | 1 |
 | 2026-09-10 | 1 |
+| 2026-09-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 17 | 53% |
-| Array | 15 | 47% |
-| String | 11 | 34% |
-| Hash Table | 6 | 19% |
-| Depth-First Search | 5 | 16% |
-| Breadth-First Search | 4 | 13% |
-| Graph Theory | 4 | 13% |
-| Math | 4 | 13% |
-| Sorting | 4 | 13% |
-| Two Pointers | 3 | 9% |
+| Dynamic Programming | 18 | 55% |
+| Array | 15 | 45% |
+| String | 12 | 36% |
+| Hash Table | 6 | 18% |
+| Depth-First Search | 5 | 15% |
+| Breadth-First Search | 4 | 12% |
+| Graph Theory | 4 | 12% |
+| Math | 4 | 12% |
+| Sorting | 4 | 12% |
+| Two Pointers | 4 | 12% |
 
 ## Topics
 
@@ -59,11 +59,11 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 17 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
@@ -85,10 +85,10 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 2 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
