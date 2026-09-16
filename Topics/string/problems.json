@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-15T13:40:41.271Z",
+  "updatedAt": "2026-09-16T20:47:55.723Z",
   "problems": [
     {
       "frontendId": "5",
@@ -103,6 +103,26 @@
           "path": "0647-palindromic-substrings/0647-palindromic-substrings.cpp",
           "sha": "27bbc9f0fdbc097b516a48d5372a8ac8112ebf8e",
           "lastSyncedAt": "2026-08-31T04:52:54.543Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "990",
+      "title": "Satisfiability of Equality Equations",
+      "slug": "satisfiability-of-equality-equations",
+      "problemName": "0990-satisfiability-of-equality-equations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/satisfiability-of-equality-equations/",
+      "folderPath": "0990-satisfiability-of-equality-equations/",
+      "readmePath": "0990-satisfiability-of-equality-equations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0990-satisfiability-of-equality-equations.cpp",
+          "path": "0990-satisfiability-of-equality-equations/0990-satisfiability-of-equality-equations.cpp",
+          "sha": "9f4e9cb9bff2fb145e4da35ef9f6b7bba69c4e75",
+          "lastSyncedAt": "2026-09-16T20:47:55.723Z"
         }
       ]
     },
