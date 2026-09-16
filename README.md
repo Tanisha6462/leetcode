@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 6 | 21 | 6 |
+| 34 | 6 | 22 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 21 |
+| 2 days | 5 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-13 | 1 |
 | 2026-08-20 | 3 |
 | 2026-08-21 | 3 |
 | 2026-08-22 | 4 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-09-04 | 1 |
 | 2026-09-10 | 1 |
 | 2026-09-15 | 1 |
+| 2026-09-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 18 | 55% |
-| Array | 15 | 45% |
-| String | 12 | 36% |
+| Dynamic Programming | 19 | 56% |
+| Array | 15 | 44% |
+| String | 12 | 35% |
 | Hash Table | 6 | 18% |
 | Depth-First Search | 5 | 15% |
+| Math | 5 | 15% |
 | Breadth-First Search | 4 | 12% |
 | Graph Theory | 4 | 12% |
-| Math | 4 | 12% |
 | Sorting | 4 | 12% |
 | Two Pointers | 4 | 12% |
 
@@ -55,11 +55,12 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 5 |
+| [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 18 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 5 |
@@ -70,14 +71,14 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
