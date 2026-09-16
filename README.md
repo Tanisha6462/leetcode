@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 6 | 23 | 6 |
+| 36 | 6 | 24 | 6 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-09-10 | 1 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
-| 2026-09-17 | 1 |
+| 2026-09-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 19 | 54% |
-| Array | 16 | 46% |
-| String | 13 | 37% |
+| Dynamic Programming | 19 | 53% |
+| Array | 16 | 44% |
+| String | 13 | 36% |
+| Depth-First Search | 6 | 17% |
+| Graph Theory | 6 | 17% |
 | Hash Table | 6 | 17% |
-| Depth-First Search | 5 | 14% |
-| Graph Theory | 5 | 14% |
+| Breadth-First Search | 5 | 14% |
 | Math | 5 | 14% |
-| Breadth-First Search | 4 | 11% |
 | Sorting | 4 | 11% |
 | Two Pointers | 4 | 11% |
 
@@ -54,16 +54,16 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 5 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Counting](Topics/counting/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 6 |
+| [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 19 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
-| [Graph Theory](Topics/graph/) | 6 |
+| [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
@@ -90,7 +90,7 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
-| [Union-Find](Topics/union-find/) | 3 |
+| [Union-Find](Topics/union-find/) | 4 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
 
