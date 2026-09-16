@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-16T20:47:55.723Z",
+  "updatedAt": "2026-09-16T20:48:23.265Z",
   "problems": [
     {
       "frontendId": "990",
@@ -22,7 +22,7 @@
           "filename": "0990-satisfiability-of-equality-equations.cpp",
           "path": "0990-satisfiability-of-equality-equations/0990-satisfiability-of-equality-equations.cpp",
           "sha": "9f4e9cb9bff2fb145e4da35ef9f6b7bba69c4e75",
-          "lastSyncedAt": "2026-09-16T20:47:55.723Z"
+          "lastSyncedAt": "2026-09-16T20:48:23.265Z"
         }
       ]
     },
