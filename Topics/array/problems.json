@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T14:56:07.456Z",
+  "updatedAt": "2026-09-16T20:47:55.723Z",
   "problems": [
     {
       "frontendId": "198",
@@ -83,6 +83,26 @@
           "path": "0646-maximum-length-of-pair-chain/0646-maximum-length-of-pair-chain.cpp",
           "sha": "ecc84500993a866db54a8eced1e1b04b0257eac2",
           "lastSyncedAt": "2026-08-22T06:46:41.517Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "990",
+      "title": "Satisfiability of Equality Equations",
+      "slug": "satisfiability-of-equality-equations",
+      "problemName": "0990-satisfiability-of-equality-equations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/satisfiability-of-equality-equations/",
+      "folderPath": "0990-satisfiability-of-equality-equations/",
+      "readmePath": "0990-satisfiability-of-equality-equations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0990-satisfiability-of-equality-equations.cpp",
+          "path": "0990-satisfiability-of-equality-equations/0990-satisfiability-of-equality-equations.cpp",
+          "sha": "9f4e9cb9bff2fb145e4da35ef9f6b7bba69c4e75",
+          "lastSyncedAt": "2026-09-16T20:47:55.723Z"
         }
       ]
     },
