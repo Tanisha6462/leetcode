@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-16T20:48:23.265Z",
+  "updatedAt": "2026-09-16T21:20:06.105Z",
   "problems": [
     {
       "frontendId": "990",
@@ -23,6 +23,26 @@
           "path": "0990-satisfiability-of-equality-equations/0990-satisfiability-of-equality-equations.cpp",
           "sha": "9f4e9cb9bff2fb145e4da35ef9f6b7bba69c4e75",
           "lastSyncedAt": "2026-09-16T20:48:23.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1319",
+      "title": "Number of Operations to Make Network Connected",
+      "slug": "number-of-operations-to-make-network-connected",
+      "problemName": "1319-number-of-operations-to-make-network-connected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "folderPath": "1319-number-of-operations-to-make-network-connected/",
+      "readmePath": "1319-number-of-operations-to-make-network-connected/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1319-number-of-operations-to-make-network-connected.cpp",
+          "path": "1319-number-of-operations-to-make-network-connected/1319-number-of-operations-to-make-network-connected.cpp",
+          "sha": "1393214ea86cc6b6b56321922c48b7816accc0af",
+          "lastSyncedAt": "2026-09-16T21:20:06.105Z"
         }
       ]
     },
