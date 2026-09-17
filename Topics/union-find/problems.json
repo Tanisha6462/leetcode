@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-16T21:26:45.268Z",
+  "updatedAt": "2026-09-17T11:25:54.118Z",
   "problems": [
     {
       "frontendId": "990",
@@ -82,7 +82,7 @@
           "filename": "1631-path-with-minimum-effort.cpp",
           "path": "1631-path-with-minimum-effort/1631-path-with-minimum-effort.cpp",
           "sha": "6ba085dd62747b4a8a5e998aec139f1d98b6c888",
-          "lastSyncedAt": "2026-08-22T06:48:03.861Z"
+          "lastSyncedAt": "2026-09-17T11:25:54.118Z"
         }
       ]
     }
