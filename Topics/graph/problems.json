@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-17T05:12:54.169Z",
+  "updatedAt": "2026-09-17T05:13:15.168Z",
   "problems": [
     {
       "frontendId": "207",
@@ -62,7 +62,7 @@
           "filename": "0743-network-delay-time.cpp",
           "path": "0743-network-delay-time/0743-network-delay-time.cpp",
           "sha": "f95bfa2e4ef9b32fd91c0a0ebbae88cc4989a537",
-          "lastSyncedAt": "2026-09-17T05:12:54.169Z"
+          "lastSyncedAt": "2026-09-17T05:13:15.168Z"
         }
       ]
     },
