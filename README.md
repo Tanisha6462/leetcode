@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 6 | 24 | 6 |
+| 37 | 6 | 25 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 5 days | 23 |
+| 1 days | 5 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-21 | 3 |
 | 2026-08-22 | 4 |
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
+| 2026-09-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 19 | 53% |
-| Array | 16 | 44% |
-| String | 13 | 36% |
-| Depth-First Search | 6 | 17% |
-| Graph Theory | 6 | 17% |
-| Hash Table | 6 | 17% |
+| Dynamic Programming | 20 | 54% |
+| Array | 16 | 43% |
+| String | 13 | 35% |
+| Depth-First Search | 6 | 16% |
+| Graph Theory | 6 | 16% |
+| Hash Table | 6 | 16% |
+| Math | 6 | 16% |
 | Breadth-First Search | 5 | 14% |
-| Math | 5 | 14% |
 | Sorting | 4 | 11% |
 | Two Pointers | 4 | 11% |
 
@@ -55,12 +55,12 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
-| [Combinatorics](Topics/combinatorics/) | 1 |
+| [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 19 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
