@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-16T17:21:25.861Z",
+  "updatedAt": "2026-09-20T11:37:44.410Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,6 +23,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "e9fa58a03fdb74c549d29ec5177fc99d7ca6716a",
           "lastSyncedAt": "2026-09-01T05:20:15.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0062-unique-paths.cpp",
+          "path": "0062-unique-paths/0062-unique-paths.cpp",
+          "sha": "fd4251c03a045a01960a2759512e879a2952386b",
+          "lastSyncedAt": "2026-09-20T11:37:44.410Z"
         }
       ]
     },
