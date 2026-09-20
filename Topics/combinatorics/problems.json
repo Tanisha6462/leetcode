@@ -4,7 +4,7 @@
     "slug": "combinatorics",
     "name": "Combinatorics"
   },
-  "updatedAt": "2026-09-20T11:37:44.410Z",
+  "updatedAt": "2026-09-20T12:16:27.388Z",
   "problems": [
     {
       "frontendId": "62",
@@ -22,7 +22,7 @@
           "filename": "0062-unique-paths.cpp",
           "path": "0062-unique-paths/0062-unique-paths.cpp",
           "sha": "fd4251c03a045a01960a2759512e879a2952386b",
-          "lastSyncedAt": "2026-09-20T11:37:44.410Z"
+          "lastSyncedAt": "2026-09-20T12:16:27.388Z"
         }
       ]
     },
