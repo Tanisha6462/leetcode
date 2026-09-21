@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-20T12:16:27.388Z",
+  "updatedAt": "2026-09-21T13:57:08.241Z",
   "problems": [
     {
       "frontendId": "5",
@@ -43,6 +43,26 @@
           "path": "0062-unique-paths/0062-unique-paths.cpp",
           "sha": "fd4251c03a045a01960a2759512e879a2952386b",
           "lastSyncedAt": "2026-09-20T12:16:27.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "problemName": "0063-unique-paths-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+      "folderPath": "0063-unique-paths-ii/",
+      "readmePath": "0063-unique-paths-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0063-unique-paths-ii.cpp",
+          "path": "0063-unique-paths-ii/0063-unique-paths-ii.cpp",
+          "sha": "0160ac29a19671358e6ddc99f8d663973720b0bd",
+          "lastSyncedAt": "2026-09-21T13:57:08.241Z"
         }
       ]
     },
