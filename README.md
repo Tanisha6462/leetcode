@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 6 | 25 | 6 |
+| 38 | 6 | 26 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 24 |
+| 2 days | 5 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-22 | 4 |
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-08-26 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-20 | 1 |
+| 2026-09-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 20 | 54% |
-| Array | 16 | 43% |
-| String | 13 | 35% |
+| Dynamic Programming | 21 | 55% |
+| Array | 17 | 45% |
+| String | 13 | 34% |
 | Depth-First Search | 6 | 16% |
 | Graph Theory | 6 | 16% |
 | Hash Table | 6 | 16% |
 | Math | 6 | 16% |
-| Breadth-First Search | 5 | 14% |
+| Breadth-First Search | 5 | 13% |
 | Sorting | 4 | 11% |
 | Two Pointers | 4 | 11% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 16 |
+| [Array](Topics/array/) | 17 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 20 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 21 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 6 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
