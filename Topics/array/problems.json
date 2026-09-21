@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T11:25:54.118Z",
+  "updatedAt": "2026-09-21T13:57:08.241Z",
   "problems": [
+    {
+      "frontendId": "63",
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "problemName": "0063-unique-paths-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths-ii/",
+      "folderPath": "0063-unique-paths-ii/",
+      "readmePath": "0063-unique-paths-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0063-unique-paths-ii.cpp",
+          "path": "0063-unique-paths-ii/0063-unique-paths-ii.cpp",
+          "sha": "0160ac29a19671358e6ddc99f8d663973720b0bd",
+          "lastSyncedAt": "2026-09-21T13:57:08.241Z"
+        }
+      ]
+    },
     {
       "frontendId": "198",
       "title": "House Robber",
