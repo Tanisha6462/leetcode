@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-21T13:57:08.241Z",
+  "updatedAt": "2026-09-21T14:19:32.404Z",
   "problems": [
     {
       "frontendId": "5",
@@ -62,7 +62,7 @@
           "filename": "0063-unique-paths-ii.cpp",
           "path": "0063-unique-paths-ii/0063-unique-paths-ii.cpp",
           "sha": "0160ac29a19671358e6ddc99f8d663973720b0bd",
-          "lastSyncedAt": "2026-09-21T13:57:08.241Z"
+          "lastSyncedAt": "2026-09-21T14:19:32.404Z"
         }
       ]
     },
