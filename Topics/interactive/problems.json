@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "interactive",
+    "name": "Interactive"
+  },
+  "updatedAt": "2026-09-25T15:17:21.196Z",
+  "problems": [
+    {
+      "frontendId": "1095",
+      "title": "Find in Mountain Array",
+      "slug": "find-in-mountain-array",
+      "problemName": "1095-find-in-mountain-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-in-mountain-array/",
+      "folderPath": "1095-find-in-mountain-array/",
+      "readmePath": "1095-find-in-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1095-find-in-mountain-array.cpp",
+          "path": "1095-find-in-mountain-array/1095-find-in-mountain-array.cpp",
+          "sha": "8375f8711b1aff1178f3987fe859b5b39f525f57",
+          "lastSyncedAt": "2026-09-25T15:17:21.196Z"
+        }
+      ]
+    }
+  ]
+}
