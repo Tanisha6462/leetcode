@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 39 | 6 | 27 | 6 |
+| 40 | 7 | 27 | 6 |
 
 ## Activity
 
@@ -28,30 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 2 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
-| 2026-09-25 | 1 |
+| 2026-09-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 21 | 54% |
-| Array | 18 | 46% |
+| Dynamic Programming | 21 | 53% |
+| Array | 19 | 48% |
 | String | 13 | 33% |
 | Depth-First Search | 6 | 15% |
 | Graph Theory | 6 | 15% |
 | Hash Table | 6 | 15% |
 | Math | 6 | 15% |
 | Breadth-First Search | 5 | 13% |
+| Binary Search | 4 | 10% |
 | Sorting | 4 | 10% |
-| Two Pointers | 4 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
