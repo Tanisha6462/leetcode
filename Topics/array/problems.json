@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T06:14:30.456Z",
+  "updatedAt": "2026-09-25T06:26:18.357Z",
   "problems": [
     {
       "frontendId": "33",
@@ -22,7 +22,7 @@
           "filename": "0033-search-in-rotated-sorted-array.cpp",
           "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
           "sha": "c84379ed89e932a9e66332e73cf5ebb07ed32193",
-          "lastSyncedAt": "2026-09-25T06:14:30.456Z"
+          "lastSyncedAt": "2026-09-25T06:26:18.357Z"
         }
       ]
     },
