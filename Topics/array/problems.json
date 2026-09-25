@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T06:26:18.357Z",
+  "updatedAt": "2026-09-25T07:35:37.667Z",
   "problems": [
     {
       "frontendId": "33",
@@ -123,6 +123,26 @@
           "path": "0646-maximum-length-of-pair-chain/0646-maximum-length-of-pair-chain.cpp",
           "sha": "ecc84500993a866db54a8eced1e1b04b0257eac2",
           "lastSyncedAt": "2026-08-22T06:46:41.517Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "problemName": "0744-find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+      "folderPath": "0744-find-smallest-letter-greater-than-target/",
+      "readmePath": "0744-find-smallest-letter-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0744-find-smallest-letter-greater-than-target.cpp",
+          "path": "0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.cpp",
+          "sha": "0f569c267d4ac2c599a1e8d7af7bc9dc5061db16",
+          "lastSyncedAt": "2026-09-25T07:35:37.667Z"
         }
       ]
     },
