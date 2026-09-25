@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 6 | 26 | 6 |
+| 39 | 6 | 27 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 25 |
+| 1 days | 5 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-08-26 | 2 |
 | 2026-08-27 | 1 |
@@ -29,29 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 2 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
+| 2026-09-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 21 | 55% |
-| Array | 17 | 45% |
-| String | 13 | 34% |
-| Depth-First Search | 6 | 16% |
-| Graph Theory | 6 | 16% |
-| Hash Table | 6 | 16% |
-| Math | 6 | 16% |
+| Dynamic Programming | 21 | 54% |
+| Array | 18 | 46% |
+| String | 13 | 33% |
+| Depth-First Search | 6 | 15% |
+| Graph Theory | 6 | 15% |
+| Hash Table | 6 | 15% |
+| Math | 6 | 15% |
 | Breadth-First Search | 5 | 13% |
-| Sorting | 4 | 11% |
-| Two Pointers | 4 | 11% |
+| Sorting | 4 | 10% |
+| Two Pointers | 4 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 6 |
