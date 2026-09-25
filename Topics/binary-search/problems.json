@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-25T14:45:04.022Z",
+  "updatedAt": "2026-09-25T15:17:21.196Z",
   "problems": [
     {
       "frontendId": "33",
@@ -103,6 +103,26 @@
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
           "sha": "cccdf6a2beaf69f9153fbd66576dd0788febe8d4",
           "lastSyncedAt": "2026-09-25T14:45:04.022Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1095",
+      "title": "Find in Mountain Array",
+      "slug": "find-in-mountain-array",
+      "problemName": "1095-find-in-mountain-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-in-mountain-array/",
+      "folderPath": "1095-find-in-mountain-array/",
+      "readmePath": "1095-find-in-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1095-find-in-mountain-array.cpp",
+          "path": "1095-find-in-mountain-array/1095-find-in-mountain-array.cpp",
+          "sha": "8375f8711b1aff1178f3987fe859b5b39f525f57",
+          "lastSyncedAt": "2026-09-25T15:17:21.196Z"
         }
       ]
     },
