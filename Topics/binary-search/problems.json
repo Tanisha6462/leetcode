@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-25T14:30:17.727Z",
+  "updatedAt": "2026-09-25T14:45:04.022Z",
   "problems": [
     {
       "frontendId": "33",
@@ -83,6 +83,26 @@
           "path": "0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.cpp",
           "sha": "0f569c267d4ac2c599a1e8d7af7bc9dc5061db16",
           "lastSyncedAt": "2026-09-25T07:36:43.976Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "852",
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
+      "problemName": "0852-peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+      "folderPath": "0852-peak-index-in-a-mountain-array/",
+      "readmePath": "0852-peak-index-in-a-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0852-peak-index-in-a-mountain-array.cpp",
+          "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.cpp",
+          "sha": "cccdf6a2beaf69f9153fbd66576dd0788febe8d4",
+          "lastSyncedAt": "2026-09-25T14:45:04.022Z"
         }
       ]
     },
