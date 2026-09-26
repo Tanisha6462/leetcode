@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T15:17:21.196Z",
+  "updatedAt": "2026-09-26T04:26:18.546Z",
   "problems": [
     {
       "frontendId": "33",
@@ -242,7 +242,7 @@
           "filename": "1095-find-in-mountain-array.cpp",
           "path": "1095-find-in-mountain-array/1095-find-in-mountain-array.cpp",
           "sha": "8375f8711b1aff1178f3987fe859b5b39f525f57",
-          "lastSyncedAt": "2026-09-25T15:17:21.196Z"
+          "lastSyncedAt": "2026-09-26T04:26:18.546Z"
         }
       ]
     },
