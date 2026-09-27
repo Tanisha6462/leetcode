@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:27:34.946Z",
+  "updatedAt": "2026-09-27T08:36:01.446Z",
   "problems": [
     {
       "frontendId": "33",
@@ -82,7 +82,7 @@
           "filename": "0162-find-peak-element.cpp",
           "path": "0162-find-peak-element/0162-find-peak-element.cpp",
           "sha": "1e211bad8a58ddf5f7eaa4bdee5cebc2108fe1ec",
-          "lastSyncedAt": "2026-09-25T14:30:17.727Z"
+          "lastSyncedAt": "2026-09-27T08:36:01.446Z"
         }
       ]
     },
