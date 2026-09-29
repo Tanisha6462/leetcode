@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-26T14:55:10.200Z",
+  "updatedAt": "2026-09-29T13:28:52.405Z",
   "problems": [
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "0904-fruit-into-baskets/",
+      "readmePath": "0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0904-fruit-into-baskets.cpp",
+          "path": "0904-fruit-into-baskets/0904-fruit-into-baskets.cpp",
+          "sha": "b186f6e915d94843e48a608ce27b236c69e3b8c8",
+          "lastSyncedAt": "2026-09-29T13:28:52.405Z"
+        }
+      ]
+    },
     {
       "frontendId": "2904",
       "title": "Shortest and Lexicographically Smallest Beautiful String",
