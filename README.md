@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 7 | 30 | 7 |
+| 45 | 7 | 31 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 27 |
+| 1 days | 5 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-26 | 2 |
 | 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
 | 2026-08-30 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-09-21 | 1 |
 | 2026-09-25 | 5 |
 | 2026-09-26 | 1 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 52% |
-| Dynamic Programming | 21 | 48% |
-| String | 13 | 30% |
+| Array | 24 | 53% |
+| Dynamic Programming | 21 | 47% |
+| String | 13 | 29% |
 | Binary Search | 8 | 18% |
-| Depth-First Search | 6 | 14% |
-| Graph Theory | 6 | 14% |
-| Hash Table | 6 | 14% |
-| Math | 6 | 14% |
+| Hash Table | 7 | 16% |
+| Depth-First Search | 6 | 13% |
+| Graph Theory | 6 | 13% |
+| Math | 6 | 13% |
 | Breadth-First Search | 5 | 11% |
 | Sorting | 4 | 9% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 23 |
+| [Array](Topics/array/) | 24 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [String](Topics/string/) | 13 |
