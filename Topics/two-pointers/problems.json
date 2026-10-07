@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-15T13:40:41.271Z",
+  "updatedAt": "2026-10-07T18:21:06.001Z",
   "problems": [
     {
       "frontendId": "5",
@@ -63,6 +63,26 @@
           "path": "1048-longest-string-chain/1048-longest-string-chain.cpp",
           "sha": "b83e0a3ac7e94259a3cb3eab10c31ec745d2d0d9",
           "lastSyncedAt": "2026-08-22T06:46:24.833Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "slug": "delete-the-middle-node-of-a-linked-list",
+      "problemName": "2095-delete-the-middle-node-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "folderPath": "2095-delete-the-middle-node-of-a-linked-list/",
+      "readmePath": "2095-delete-the-middle-node-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
+          "sha": "14623ed995c6d3b526f4631f12707fb5516aec7c",
+          "lastSyncedAt": "2026-10-07T18:21:06.001Z"
         }
       ]
     },
