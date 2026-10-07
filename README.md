@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 7 | 31 | 7 |
+| 46 | 7 | 32 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 28 |
+| 1 days | 5 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
 | 2026-08-30 | 1 |
 | 2026-09-01 | 3 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-25 | 5 |
 | 2026-09-26 | 1 |
 | 2026-09-29 | 1 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 53% |
-| Dynamic Programming | 21 | 47% |
-| String | 13 | 29% |
-| Binary Search | 8 | 18% |
-| Hash Table | 7 | 16% |
+| Array | 24 | 52% |
+| Dynamic Programming | 21 | 46% |
+| String | 13 | 28% |
+| Binary Search | 8 | 17% |
+| Hash Table | 7 | 15% |
 | Depth-First Search | 6 | 13% |
 | Graph Theory | 6 | 13% |
 | Math | 6 | 13% |
@@ -69,6 +69,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
