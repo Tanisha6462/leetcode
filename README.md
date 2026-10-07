@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 7 | 32 | 7 |
+| 47 | 7 | 33 | 7 |
 
 ## Activity
 
@@ -28,14 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-09-25 | 5 |
 | 2026-09-26 | 1 |
 | 2026-09-29 | 1 |
-| 2026-10-07 | 1 |
+| 2026-10-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 52% |
-| Dynamic Programming | 21 | 46% |
+| Array | 24 | 51% |
+| Dynamic Programming | 21 | 45% |
 | String | 13 | 28% |
 | Binary Search | 8 | 17% |
 | Hash Table | 7 | 15% |
@@ -43,7 +43,7 @@ Contains topicwise list of solved problems.
 | Graph Theory | 6 | 13% |
 | Math | 6 | 13% |
 | Breadth-First Search | 5 | 11% |
-| Sorting | 4 | 9% |
+| Two Pointers | 5 | 11% |
 
 ## Topics
 
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -92,7 +92,7 @@ Contains topicwise list of solved problems.
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 | [Union-Find](Topics/union-find/) | 4 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
