@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 10 | 35 | 7 |
+| 53 | 10 | 36 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 30 |
+| 3 days | 5 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-30 | 1 |
 | 2026-09-01 | 3 |
 | 2026-09-04 | 1 |
 | 2026-09-10 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
+| 2026-10-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 54% |
-| Dynamic Programming | 23 | 44% |
+| Array | 29 | 55% |
+| Dynamic Programming | 23 | 43% |
 | String | 13 | 25% |
 | Hash Table | 9 | 17% |
 | Binary Search | 8 | 15% |
-| Depth-First Search | 6 | 12% |
-| Graph Theory | 6 | 12% |
-| Math | 6 | 12% |
-| Breadth-First Search | 5 | 10% |
-| Sorting | 5 | 10% |
+| Depth-First Search | 6 | 11% |
+| Graph Theory | 6 | 11% |
+| Math | 6 | 11% |
+| Breadth-First Search | 5 | 9% |
+| Sorting | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 28 |
+| [Array](Topics/array/) | 29 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -81,7 +81,7 @@ Contains topicwise list of solved problems.
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
