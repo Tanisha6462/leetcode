@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-09-29T13:28:52.405Z",
+  "updatedAt": "2026-10-08T17:39:44.659Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0001-two-sum.cpp",
+          "path": "0001-two-sum/0001-two-sum.cpp",
+          "sha": "754f3e8f0dfedbac5a9b0e6d1dc9ad4105b06782",
+          "lastSyncedAt": "2026-10-08T17:39:44.659Z"
+        }
+      ]
+    },
     {
       "frontendId": "904",
       "title": "Fruit Into Baskets",
