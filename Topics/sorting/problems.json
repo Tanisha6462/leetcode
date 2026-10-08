@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-08-22T06:47:57.924Z",
+  "updatedAt": "2026-10-08T17:49:12.623Z",
   "problems": [
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0217-contains-duplicate.cpp",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "sha": "a7a039ee6928e9994ac942098ee695bf85e954b3",
+          "lastSyncedAt": "2026-10-08T17:49:12.623Z"
+        }
+      ]
+    },
     {
       "frontendId": "646",
       "title": "Maximum Length of Pair Chain",
