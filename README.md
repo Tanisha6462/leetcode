@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 10 | 34 | 7 |
+| 52 | 10 | 35 | 7 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-26 | 1 |
 | 2026-09-29 | 1 |
 | 2026-10-07 | 2 |
-| 2026-10-08 | 4 |
+| 2026-10-08 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 53% |
-| Dynamic Programming | 22 | 43% |
+| Array | 28 | 54% |
+| Dynamic Programming | 23 | 44% |
 | String | 13 | 25% |
-| Hash Table | 9 | 18% |
-| Binary Search | 8 | 16% |
+| Hash Table | 9 | 17% |
+| Binary Search | 8 | 15% |
 | Depth-First Search | 6 | 12% |
 | Graph Theory | 6 | 12% |
 | Math | 6 | 12% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -60,7 +60,8 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 22 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 23 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
