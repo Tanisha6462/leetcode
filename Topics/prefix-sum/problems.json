@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-09-16T17:21:25.861Z",
+  "updatedAt": "2026-10-08T18:33:16.993Z",
   "problems": [
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0238-product-of-array-except-self.cpp",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
+          "sha": "5f9c0ee8ff536b518a27cd12ba2e7a998b030f1c",
+          "lastSyncedAt": "2026-10-08T18:33:16.993Z"
+        }
+      ]
+    },
     {
       "frontendId": "1420",
       "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
