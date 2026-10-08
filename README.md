@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 7 | 34 | 7 |
+| 49 | 8 | 34 | 7 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-09-26 | 1 |
 | 2026-09-29 | 1 |
 | 2026-10-07 | 2 |
-| 2026-10-08 | 1 |
+| 2026-10-08 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 50% |
-| Dynamic Programming | 21 | 44% |
+| Array | 25 | 51% |
+| Dynamic Programming | 21 | 43% |
 | String | 13 | 27% |
-| Binary Search | 8 | 17% |
-| Hash Table | 7 | 15% |
-| Depth-First Search | 6 | 13% |
-| Graph Theory | 6 | 13% |
-| Math | 6 | 13% |
+| Binary Search | 8 | 16% |
+| Hash Table | 8 | 16% |
+| Depth-First Search | 6 | 12% |
+| Graph Theory | 6 | 12% |
+| Math | 6 | 12% |
 | Breadth-First Search | 5 | 10% |
 | Two Pointers | 5 | 10% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
