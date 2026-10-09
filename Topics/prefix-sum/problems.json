@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-08T18:33:16.993Z",
+  "updatedAt": "2026-10-09T03:53:22.199Z",
   "problems": [
     {
       "frontendId": "238",
@@ -24,6 +24,26 @@
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "5f9c0ee8ff536b518a27cd12ba2e7a998b030f1c",
           "lastSyncedAt": "2026-10-08T18:33:16.993Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0560-subarray-sum-equals-k.cpp",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.cpp",
+          "sha": "14a1905aace2e2c3912109c9548b36d1db862ce8",
+          "lastSyncedAt": "2026-10-09T03:53:22.199Z"
         }
       ]
     },
