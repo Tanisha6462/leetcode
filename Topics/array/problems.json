@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T04:42:01.277Z",
+  "updatedAt": "2026-10-09T06:22:38.137Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,7 +123,7 @@
           "filename": "0073-set-matrix-zeroes.cpp",
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "7b360867745f755c0829b01d3a21a97a6521e069",
-          "lastSyncedAt": "2026-10-09T04:42:01.277Z"
+          "lastSyncedAt": "2026-10-09T06:22:38.137Z"
         }
       ]
     },
