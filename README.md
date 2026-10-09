@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 10 | 39 | 7 |
+| 57 | 10 | 40 | 7 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
-| 2026-10-09 | 4 |
+| 2026-10-09 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 57% |
-| Dynamic Programming | 23 | 41% |
+| Array | 33 | 58% |
+| Dynamic Programming | 23 | 40% |
 | String | 13 | 23% |
-| Hash Table | 11 | 20% |
+| Hash Table | 11 | 19% |
 | Binary Search | 8 | 14% |
 | Depth-First Search | 6 | 11% |
 | Graph Theory | 6 | 11% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 6 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
@@ -85,7 +85,7 @@ Contains topicwise list of solved problems.
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
@@ -93,7 +93,7 @@ Contains topicwise list of solved problems.
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
-| [two-pointers](Topics/two-pointers/) | 0 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 | [Union-Find](Topics/union-find/) | 4 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
