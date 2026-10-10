@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 12 | 40 | 7 |
+| 60 | 13 | 40 | 7 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
 | 2026-10-09 | 5 |
-| 2026-10-10 | 2 |
+| 2026-10-10 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 56% |
-| Dynamic Programming | 23 | 39% |
-| String | 15 | 25% |
+| Array | 34 | 57% |
+| Dynamic Programming | 23 | 38% |
+| String | 16 | 27% |
 | Hash Table | 12 | 20% |
-| Binary Search | 8 | 14% |
+| Binary Search | 8 | 13% |
 | Sorting | 7 | 12% |
 | Two Pointers | 7 | 12% |
 | Depth-First Search | 6 | 10% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 33 |
+| [Array](Topics/array/) | 34 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -89,10 +89,11 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
+| [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
 | [Union-Find](Topics/union-find/) | 4 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
