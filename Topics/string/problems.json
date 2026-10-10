@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T05:41:43.563Z",
+  "updatedAt": "2026-10-10T05:52:08.142Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "e9fa58a03fdb74c549d29ec5177fc99d7ca6716a",
           "lastSyncedAt": "2026-09-01T05:20:15.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0014-longest-common-prefix.cpp",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.cpp",
+          "sha": "e6ae63082f90c1783aea894af333a2c5530fbd29",
+          "lastSyncedAt": "2026-10-10T05:52:08.142Z"
         }
       ]
     },
