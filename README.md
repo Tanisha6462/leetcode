@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 11 | 40 | 7 |
+| 59 | 12 | 40 | 7 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
 | 2026-10-09 | 5 |
-| 2026-10-10 | 1 |
+| 2026-10-10 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 57% |
-| Dynamic Programming | 23 | 40% |
-| String | 14 | 24% |
-| Hash Table | 12 | 21% |
+| Array | 33 | 56% |
+| Dynamic Programming | 23 | 39% |
+| String | 15 | 25% |
+| Hash Table | 12 | 20% |
 | Binary Search | 8 | 14% |
 | Sorting | 7 | 12% |
+| Two Pointers | 7 | 12% |
 | Depth-First Search | 6 | 10% |
 | Graph Theory | 6 | 10% |
 | Math | 6 | 10% |
-| Two Pointers | 6 | 10% |
 
 ## Topics
 
@@ -89,11 +89,11 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 3 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 14 |
+| [String](Topics/string/) | 15 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 | [Union-Find](Topics/union-find/) | 4 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
