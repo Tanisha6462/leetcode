@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 57 | 10 | 40 | 7 |
+| 58 | 11 | 40 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 5 days | 31 |
+| 4 days | 5 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 3 |
 | 2026-09-04 | 1 |
 | 2026-09-10 | 1 |
 | 2026-09-15 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
 | 2026-10-09 | 5 |
+| 2026-10-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 58% |
+| Array | 33 | 57% |
 | Dynamic Programming | 23 | 40% |
-| String | 13 | 23% |
-| Hash Table | 11 | 19% |
+| String | 14 | 24% |
+| Hash Table | 12 | 21% |
 | Binary Search | 8 | 14% |
-| Depth-First Search | 6 | 11% |
-| Graph Theory | 6 | 11% |
-| Math | 6 | 11% |
-| Sorting | 6 | 11% |
-| Two Pointers | 6 | 11% |
+| Sorting | 7 | 12% |
+| Depth-First Search | 6 | 10% |
+| Graph Theory | 6 | 10% |
+| Math | 6 | 10% |
+| Two Pointers | 6 | 10% |
 
 ## Topics
 
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
@@ -87,9 +87,9 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 6 |
+| [Sorting](Topics/sorting/) | 7 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 13 |
+| [String](Topics/string/) | 14 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
