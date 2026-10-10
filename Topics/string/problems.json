@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T05:37:07.882Z",
+  "updatedAt": "2026-10-10T05:41:43.563Z",
   "problems": [
     {
       "frontendId": "5",
@@ -44,6 +44,26 @@
           "path": "0072-edit-distance/0072-edit-distance.cpp",
           "sha": "59853f6c4414be6e0528b805b0e487b10b8c9b61",
           "lastSyncedAt": "2026-08-29T05:24:56.668Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0125-valid-palindrome.cpp",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.cpp",
+          "sha": "737acfd9c0411a2160fd23c6f736821b8a7e3d1d",
+          "lastSyncedAt": "2026-10-10T05:41:43.563Z"
         }
       ]
     },
