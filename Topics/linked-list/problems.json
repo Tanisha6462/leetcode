@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-11T14:18:04.619Z",
+  "updatedAt": "2026-10-11T14:23:22.753Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "7fdfba54b6e388f7e439e2ad81d7486c382e2009",
+          "lastSyncedAt": "2026-10-11T14:23:22.753Z"
+        }
+      ]
+    },
     {
       "frontendId": "206",
       "title": "Reverse Linked List",
