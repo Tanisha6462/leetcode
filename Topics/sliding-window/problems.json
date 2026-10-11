@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T10:31:52.478Z",
+  "updatedAt": "2026-10-11T10:34:25.608Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,7 +43,7 @@
           "filename": "0424-longest-repeating-character-replacement.cpp",
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.cpp",
           "sha": "ef5e486e2edefa3ba0c9ca4524b6b8b06972f243",
-          "lastSyncedAt": "2026-10-11T10:31:52.478Z"
+          "lastSyncedAt": "2026-10-11T10:34:25.608Z"
         }
       ]
     },
