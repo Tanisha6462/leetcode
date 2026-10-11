@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T10:41:35.481Z",
+  "updatedAt": "2026-10-11T14:29:47.013Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "7b360867745f755c0829b01d3a21a97a6521e069",
           "lastSyncedAt": "2026-10-09T06:22:38.137Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "0141-linked-list-cycle/",
+      "readmePath": "0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0141-linked-list-cycle.cpp",
+          "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
+          "sha": "fe9069dfbdc3a8731feba25435aa7744c8bfb066",
+          "lastSyncedAt": "2026-10-11T14:29:47.013Z"
         }
       ]
     },
