@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "sliding-window",
-    "name": "Sliding Window"
+    "name": "Sliding Window",
+    "tagId": "55821"
   },
-  "updatedAt": "2026-09-29T13:28:52.405Z",
+  "updatedAt": "2026-10-11T09:36:54.526Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "0003-longest-substring-without-repeating-characters/",
+      "readmePath": "0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0003-longest-substring-without-repeating-characters.cpp",
+          "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
+          "sha": "801509b3d3b6e8edf7db23a2357ffd923a20e687",
+          "lastSyncedAt": "2026-10-11T09:36:54.526Z"
+        }
+      ]
+    },
     {
       "frontendId": "904",
       "title": "Fruit Into Baskets",
