@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 13 | 42 | 7 |
+| 63 | 13 | 43 | 7 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-08 | 5 |
 | 2026-10-09 | 5 |
 | 2026-10-10 | 3 |
-| 2026-10-11 | 2 |
+| 2026-10-11 | 3 |
 
 ## Top Tags
 
@@ -36,8 +36,8 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 35 | 56% |
 | Dynamic Programming | 23 | 37% |
-| String | 18 | 29% |
-| Hash Table | 14 | 23% |
+| String | 19 | 30% |
+| Hash Table | 15 | 24% |
 | Binary Search | 8 | 13% |
 | Sorting | 8 | 13% |
 | Two Pointers | 7 | 11% |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
@@ -86,10 +86,10 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sliding Window](Topics/sliding-window/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 8 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [String](Topics/string/) | 18 |
+| [String](Topics/string/) | 19 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
