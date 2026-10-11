@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T09:58:40.098Z",
+  "updatedAt": "2026-10-11T10:31:52.478Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.cpp",
           "sha": "71b7dbd5fcd2918fd7a1ddfa1beaf376413c314b",
           "lastSyncedAt": "2026-10-10T05:37:07.882Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "424",
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "problemName": "0424-longest-repeating-character-replacement",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "folderPath": "0424-longest-repeating-character-replacement/",
+      "readmePath": "0424-longest-repeating-character-replacement/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0424-longest-repeating-character-replacement.cpp",
+          "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.cpp",
+          "sha": "ef5e486e2edefa3ba0c9ca4524b6b8b06972f243",
+          "lastSyncedAt": "2026-10-11T10:31:52.478Z"
         }
       ]
     },
