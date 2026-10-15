@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 17 | 47 | 7 |
+| 72 | 17 | 48 | 7 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 5 |
 | 2026-10-10 | 3 |
 | 2026-10-11 | 7 |
-| 2026-10-15 | 4 |
+| 2026-10-15 | 5 |
 
 ## Top Tags
 
@@ -36,12 +36,12 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 35 | 49% |
 | Dynamic Programming | 23 | 32% |
-| String | 19 | 27% |
-| Hash Table | 16 | 23% |
-| Linked List | 11 | 15% |
-| Two Pointers | 11 | 15% |
+| String | 19 | 26% |
+| Hash Table | 16 | 22% |
+| Linked List | 12 | 17% |
+| Two Pointers | 12 | 17% |
+| Sorting | 9 | 13% |
 | Binary Search | 8 | 11% |
-| Sorting | 8 | 11% |
 | Math | 7 | 10% |
 | Depth-First Search | 6 | 8% |
 
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 7 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 23 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
@@ -71,13 +71,14 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 11 |
+| [Linked List](Topics/linked-list/) | 12 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Minimum Spanning Tree](Topics/minimum-spanning-tree/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
@@ -89,7 +90,7 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 19 |
@@ -97,7 +98,7 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 | [Union-Find](Topics/union-find/) | 4 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
