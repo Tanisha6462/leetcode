@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-15T12:10:47.358Z",
+  "updatedAt": "2026-10-15T12:12:14.234Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,7 +83,7 @@
           "filename": "0025-reverse-nodes-in-k-group.cpp",
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.cpp",
           "sha": "255803bd3d28ea4bf3397b58e54402a5197abad0",
-          "lastSyncedAt": "2026-10-15T12:10:47.358Z"
+          "lastSyncedAt": "2026-10-15T12:12:14.234Z"
         }
       ]
     },
