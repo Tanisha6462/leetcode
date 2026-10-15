@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 69 | 17 | 45 | 7 |
+| 70 | 17 | 46 | 7 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 5 |
 | 2026-10-10 | 3 |
 | 2026-10-11 | 7 |
-| 2026-10-15 | 2 |
+| 2026-10-15 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 51% |
+| Array | 35 | 50% |
 | Dynamic Programming | 23 | 33% |
-| String | 19 | 28% |
+| String | 19 | 27% |
 | Hash Table | 16 | 23% |
 | Two Pointers | 11 | 16% |
-| Linked List | 9 | 13% |
-| Binary Search | 8 | 12% |
-| Sorting | 8 | 12% |
+| Linked List | 10 | 14% |
+| Binary Search | 8 | 11% |
+| Sorting | 8 | 11% |
+| Math | 7 | 10% |
 | Depth-First Search | 6 | 9% |
-| Graph Theory | 6 | 9% |
 
 ## Topics
 
@@ -71,11 +71,11 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 9 |
+| [Linked List](Topics/linked-list/) | 10 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Prim's Algorithm](Topics/prims-algorithm/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
