@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-15T08:10:23.204Z",
+  "updatedAt": "2026-10-15T08:12:04.623Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,7 +23,7 @@
           "filename": "0002-add-two-numbers.cpp",
           "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "a83db7c1bcda607f20cc6f6672a8be34a684906e",
-          "lastSyncedAt": "2026-10-15T08:10:23.204Z"
+          "lastSyncedAt": "2026-10-15T08:12:04.623Z"
         }
       ]
     },
