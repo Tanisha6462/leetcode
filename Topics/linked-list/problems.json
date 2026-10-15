@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-15T10:48:25.526Z",
+  "updatedAt": "2026-10-15T11:20:35.079Z",
   "problems": [
     {
       "frontendId": "2",
@@ -124,6 +124,26 @@
           "path": "0143-reorder-list/0143-reorder-list.cpp",
           "sha": "cd9de1a0642b2ec62bdf7ba53ffa7c1f22ea632d",
           "lastSyncedAt": "2026-10-15T07:50:42.830Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0148-sort-list.cpp",
+          "path": "0148-sort-list/0148-sort-list.cpp",
+          "sha": "dfa82ab35f54dbf78a2e9d8ec49efdab7d815cd7",
+          "lastSyncedAt": "2026-10-15T11:20:35.079Z"
         }
       ]
     },
