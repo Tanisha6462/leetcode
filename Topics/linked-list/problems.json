@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-15T08:24:18.063Z",
+  "updatedAt": "2026-10-15T10:48:25.526Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "7fdfba54b6e388f7e439e2ad81d7486c382e2009",
           "lastSyncedAt": "2026-10-11T14:23:22.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "0024-swap-nodes-in-pairs/",
+      "readmePath": "0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0024-swap-nodes-in-pairs.cpp",
+          "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
+          "sha": "54083a875282638e343d201eeb90baaab579cf4a",
+          "lastSyncedAt": "2026-10-15T10:48:25.526Z"
         }
       ]
     },
