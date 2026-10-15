@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 17 | 43 | 7 |
+| 68 | 17 | 44 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 33 |
+| 1 days | 5 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-10 | 1 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 5 |
 | 2026-10-10 | 3 |
 | 2026-10-11 | 7 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 52% |
+| Array | 35 | 51% |
 | Dynamic Programming | 23 | 34% |
 | String | 19 | 28% |
 | Hash Table | 16 | 24% |
-| Two Pointers | 9 | 13% |
+| Two Pointers | 10 | 15% |
 | Binary Search | 8 | 12% |
+| Linked List | 8 | 12% |
 | Sorting | 8 | 12% |
-| Linked List | 7 | 10% |
 | Depth-First Search | 6 | 9% |
 | Graph Theory | 6 | 9% |
 
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
 | [Kruskal's Algorithm](Topics/kruskals-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 8 |
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -96,7 +96,7 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Two Pointers](Topics/two-pointers/) | 10 |
 | [Union-Find](Topics/union-find/) | 4 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
