@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "stack",
+    "name": "Stack",
+    "tagId": "15"
+  },
+  "updatedAt": "2026-10-15T07:50:42.830Z",
+  "problems": [
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "0143-reorder-list/",
+      "readmePath": "0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0143-reorder-list.cpp",
+          "path": "0143-reorder-list/0143-reorder-list.cpp",
+          "sha": "cd9de1a0642b2ec62bdf7ba53ffa7c1f22ea632d",
+          "lastSyncedAt": "2026-10-15T07:50:42.830Z"
+        }
+      ]
+    }
+  ]
+}
