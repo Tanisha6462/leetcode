@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-09-20T12:16:27.388Z",
+  "updatedAt": "2026-10-15T08:10:23.204Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0002-add-two-numbers.cpp",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
+          "sha": "a83db7c1bcda607f20cc6f6672a8be34a684906e",
+          "lastSyncedAt": "2026-10-15T08:10:23.204Z"
+        }
+      ]
+    },
     {
       "frontendId": "62",
       "title": "Unique Paths",
