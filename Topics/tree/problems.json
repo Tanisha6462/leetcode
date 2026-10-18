@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "tree",
-    "name": "Tree"
+    "name": "Tree",
+    "tagId": "20"
   },
-  "updatedAt": "2026-09-10T14:47:47.035Z",
+  "updatedAt": "2026-10-18T10:18:48.220Z",
   "problems": [
+    {
+      "frontendId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "problemName": "0104-maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "folderPath": "0104-maximum-depth-of-binary-tree/",
+      "readmePath": "0104-maximum-depth-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0104-maximum-depth-of-binary-tree.cpp",
+          "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.cpp",
+          "sha": "548d49bc4e0226a939d1d8f1bf87fba5b98f3ee5",
+          "lastSyncedAt": "2026-10-18T10:18:48.220Z"
+        }
+      ]
+    },
     {
       "frontendId": "2265",
       "title": "Count Nodes Equal to Average of Subtree",
