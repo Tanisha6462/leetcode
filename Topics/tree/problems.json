@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-18T11:06:46.680Z",
+  "updatedAt": "2026-10-18T11:25:28.575Z",
   "problems": [
     {
       "frontendId": "100",
@@ -64,6 +64,26 @@
           "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
           "sha": "e512ca194561a5984fc225ff6b5fc87b1d5e262f",
           "lastSyncedAt": "2026-10-18T10:33:34.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "0572-subtree-of-another-tree/",
+      "readmePath": "0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0572-subtree-of-another-tree.cpp",
+          "path": "0572-subtree-of-another-tree/0572-subtree-of-another-tree.cpp",
+          "sha": "511710e00b8e6535ddcc42a900793a1e397b861b",
+          "lastSyncedAt": "2026-10-18T11:25:28.575Z"
         }
       ]
     },
