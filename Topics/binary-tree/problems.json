@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-18T10:18:48.220Z",
+  "updatedAt": "2026-10-18T10:31:29.001Z",
   "problems": [
     {
       "frontendId": "104",
@@ -24,6 +24,26 @@
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.cpp",
           "sha": "548d49bc4e0226a939d1d8f1bf87fba5b98f3ee5",
           "lastSyncedAt": "2026-10-18T10:18:48.220Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "226",
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "problemName": "0226-invert-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+      "folderPath": "0226-invert-binary-tree/",
+      "readmePath": "0226-invert-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0226-invert-binary-tree.cpp",
+          "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
+          "sha": "e512ca194561a5984fc225ff6b5fc87b1d5e262f",
+          "lastSyncedAt": "2026-10-18T10:31:29.001Z"
         }
       ]
     },
