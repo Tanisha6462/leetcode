@@ -5,8 +5,28 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-18T10:33:34.274Z",
+  "updatedAt": "2026-10-18T11:06:46.680Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0100-same-tree.cpp",
+          "path": "0100-same-tree/0100-same-tree.cpp",
+          "sha": "e9e61fc653e1d526b99e105aae2ef8e4ebc3283a",
+          "lastSyncedAt": "2026-10-18T11:06:46.680Z"
+        }
+      ]
+    },
     {
       "frontendId": "104",
       "title": "Maximum Depth of Binary Tree",
