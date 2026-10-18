@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 20 | 48 | 8 |
+| 77 | 21 | 48 | 8 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-10 | 3 |
 | 2026-10-11 | 7 |
 | 2026-10-15 | 6 |
-| 2026-10-18 | 3 |
+| 2026-10-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 46% |
+| Array | 35 | 45% |
 | Dynamic Programming | 23 | 30% |
 | String | 19 | 25% |
 | Hash Table | 16 | 21% |
 | Linked List | 13 | 17% |
 | Two Pointers | 12 | 16% |
-| Depth-First Search | 9 | 12% |
+| Depth-First Search | 10 | 13% |
 | Sorting | 9 | 12% |
-| Binary Search | 8 | 11% |
-| Breadth-First Search | 8 | 11% |
+| Binary Search | 8 | 10% |
+| Breadth-First Search | 8 | 10% |
 
 ## Topics
 
@@ -52,12 +52,12 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 5 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 9 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 10 |
+| [Depth-First Search](Topics/depth-first-search/) | 11 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -67,6 +67,7 @@ Contains topicwise list of solved problems.
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 3 |
+| [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 1 |
@@ -94,9 +95,10 @@ Contains topicwise list of solved problems.
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 19 |
+| [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 4 |
+| [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 | [Union-Find](Topics/union-find/) | 4 |
