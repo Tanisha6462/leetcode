@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-18T10:31:29.001Z",
+  "updatedAt": "2026-10-18T10:33:34.274Z",
   "problems": [
     {
       "frontendId": "104",
@@ -43,7 +43,7 @@
           "filename": "0226-invert-binary-tree.cpp",
           "path": "0226-invert-binary-tree/0226-invert-binary-tree.cpp",
           "sha": "e512ca194561a5984fc225ff6b5fc87b1d5e262f",
-          "lastSyncedAt": "2026-10-18T10:31:29.001Z"
+          "lastSyncedAt": "2026-10-18T10:33:34.274Z"
         }
       ]
     },
