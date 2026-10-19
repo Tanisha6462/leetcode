@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-19T11:00:55.971Z",
+  "updatedAt": "2026-10-19T11:13:43.172Z",
   "problems": [
     {
       "frontendId": "100",
@@ -163,7 +163,7 @@
           "filename": "0958-check-completeness-of-a-binary-tree.cpp",
           "path": "0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.cpp",
           "sha": "5c6bc71937365c5981a92857ffda11acbdb533fe",
-          "lastSyncedAt": "2026-10-19T11:00:55.971Z"
+          "lastSyncedAt": "2026-10-19T11:13:43.172Z"
         }
       ]
     },
