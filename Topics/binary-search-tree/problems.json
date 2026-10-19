@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search-tree",
+    "name": "Binary Search Tree",
+    "tagId": "30"
+  },
+  "updatedAt": "2026-10-19T10:15:14.374Z",
+  "problems": [
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0098-validate-binary-search-tree.cpp",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
+          "sha": "f37e62866565fd14796bb50042b993ccfeb1813b",
+          "lastSyncedAt": "2026-10-19T10:15:14.374Z"
+        }
+      ]
+    }
+  ]
+}
