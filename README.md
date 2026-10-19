@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 21 | 49 | 8 |
+| 79 | 21 | 50 | 8 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 7 |
 | 2026-10-15 | 6 |
 | 2026-10-18 | 4 |
-| 2026-10-19 | 1 |
+| 2026-10-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 45% |
+| Array | 35 | 44% |
 | Dynamic Programming | 23 | 29% |
 | String | 19 | 24% |
-| Hash Table | 16 | 21% |
-| Linked List | 13 | 17% |
+| Hash Table | 16 | 20% |
+| Linked List | 13 | 16% |
 | Two Pointers | 12 | 15% |
-| Depth-First Search | 10 | 13% |
-| Breadth-First Search | 9 | 12% |
-| Sorting | 9 | 12% |
+| Depth-First Search | 11 | 14% |
+| Breadth-First Search | 9 | 11% |
+| Sorting | 9 | 11% |
 | Binary Search | 8 | 10% |
 
 ## Topics
@@ -52,12 +52,13 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 6 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 7 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 10 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 11 |
+| [Depth-First Search](Topics/depth-first-search/) | 12 |
 | [Dijkstra's Algorithm](Topics/dijkstra/) | 2 |
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -98,7 +99,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 6 |
+| [Tree](Topics/tree/) | 7 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 | [Union-Find](Topics/union-find/) | 4 |
