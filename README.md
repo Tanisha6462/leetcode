@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 77 | 21 | 48 | 8 |
+| 78 | 21 | 49 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 35 |
+| 2 days | 5 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 7 |
 | 2026-10-15 | 6 |
 | 2026-10-18 | 4 |
+| 2026-10-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 35 | 45% |
-| Dynamic Programming | 23 | 30% |
-| String | 19 | 25% |
+| Dynamic Programming | 23 | 29% |
+| String | 19 | 24% |
 | Hash Table | 16 | 21% |
 | Linked List | 13 | 17% |
-| Two Pointers | 12 | 16% |
+| Two Pointers | 12 | 15% |
 | Depth-First Search | 10 | 13% |
+| Breadth-First Search | 9 | 12% |
 | Sorting | 9 | 12% |
 | Binary Search | 8 | 10% |
-| Breadth-First Search | 8 | 10% |
 
 ## Topics
 
@@ -52,9 +52,9 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 5 |
+| [Binary Tree](Topics/binary-tree/) | 6 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 9 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 10 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 11 |
@@ -98,7 +98,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 5 |
+| [Tree](Topics/tree/) | 6 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 | [Union-Find](Topics/union-find/) | 4 |
