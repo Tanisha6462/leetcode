@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 80 | 21 | 51 | 8 |
+| 81 | 21 | 52 | 8 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 7 |
 | 2026-10-15 | 6 |
 | 2026-10-18 | 4 |
-| 2026-10-19 | 3 |
+| 2026-10-19 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 44% |
-| Dynamic Programming | 23 | 29% |
-| String | 19 | 24% |
+| Array | 35 | 43% |
+| Dynamic Programming | 23 | 28% |
+| String | 19 | 23% |
 | Hash Table | 16 | 20% |
 | Linked List | 13 | 16% |
 | Depth-First Search | 12 | 15% |
 | Two Pointers | 12 | 15% |
-| Breadth-First Search | 9 | 11% |
+| Breadth-First Search | 10 | 12% |
+| Binary Tree | 9 | 11% |
 | Sorting | 9 | 11% |
-| Binary Search | 8 | 10% |
 
 ## Topics
 
@@ -54,9 +54,9 @@ Contains topicwise list of solved problems.
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 8 |
+| [Binary Tree](Topics/binary-tree/) | 9 |
 | [Borůvka's Algorithm](Topics/boruvkas-algorithm/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 10 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 13 |
@@ -101,7 +101,7 @@ Contains topicwise list of solved problems.
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 2 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 8 |
+| [Tree](Topics/tree/) | 9 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 | [Union-Find](Topics/union-find/) | 4 |
