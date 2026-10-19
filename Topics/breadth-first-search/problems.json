@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-10-19T09:41:43.852Z",
+  "updatedAt": "2026-10-19T11:00:55.971Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0743-network-delay-time/0743-network-delay-time.cpp",
           "sha": "f95bfa2e4ef9b32fd91c0a0ebbae88cc4989a537",
           "lastSyncedAt": "2026-09-17T05:13:15.168Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "958",
+      "title": "Check Completeness of a Binary Tree",
+      "slug": "check-completeness-of-a-binary-tree",
+      "problemName": "0958-check-completeness-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/",
+      "folderPath": "0958-check-completeness-of-a-binary-tree/",
+      "readmePath": "0958-check-completeness-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0958-check-completeness-of-a-binary-tree.cpp",
+          "path": "0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.cpp",
+          "sha": "5c6bc71937365c5981a92857ffda11acbdb533fe",
+          "lastSyncedAt": "2026-10-19T11:00:55.971Z"
         }
       ]
     },
